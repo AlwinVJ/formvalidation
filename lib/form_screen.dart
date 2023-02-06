@@ -110,7 +110,7 @@ class _FormScreenState extends State<FormScreen> {
                     child: Container(
                       height: 50,
                       decoration: BoxDecoration(
-                          color: Colors.indigo,
+                          color: Colors.green,
                           borderRadius: BorderRadius.circular(5)),
                       child: const Center(
                         child: Text(
@@ -143,7 +143,7 @@ class _FormScreenState extends State<FormScreen> {
                             style: TextStyle(
                                 fontSize: 18,
                                 fontWeight: FontWeight.bold,
-                                color: Colors.indigo),
+                                color: Colors.green),
                           ))
                     ],
                   )
